@@ -1,0 +1,15 @@
+# PHISHTANK LIVE FEED MODE
+# Use live PhishTank phishing data in CSV format
+PHISHTANK_CSV_URL=your_phishtank_csv_url
+
+# Update interval in hours
+PHISHTANK_UPDATE_INTERVAL_HOURS=your_update_interval_hours
+
+# MongoDB Configuration
+MONGODB_URI=your_mongodb_uri
+MONGODB_DATABASE=your_database_name
+MONGODB_COLLECTION=your_collection_name
+
+# Mode Flags
+TESTING_MODE=your_testing_mode_flag
+USE_SAMPLE_DATA=your_sample_data_flag
